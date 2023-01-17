@@ -1,4 +1,4 @@
-#ATPGCN: Adversarially-Trained Persistent Homology-Based Graph Convolutional Network for Disease Identification Using Brain Connectivity
+# ATPGCN: Adversarially-Trained Persistent Homology-Based Graph Convolutional Network for Disease Identification Using Brain Connectivity
 A preliminary version of ATPGCN with demo data which is different from ones in our paper. The example is just used to replicate our framework.
 
 
