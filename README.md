@@ -15,7 +15,7 @@ If it is desired to generate the brain connectome perturbations and perform the 
     Generate_Prbs_02.py
 
 ### Persistent homology-Based Topology Feature
-we extract the persistent homology features of brain conectivity network from an algebraic topology analysis.
+We extract the persistent homology features of brain conectivity network from an algebraic topology analysis.
 
     Generate_TopoFeat_03.py
 
